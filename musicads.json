@@ -18,13 +18,13 @@
       
       "OpenAdNetwork"      : "admob",
       
-      "AdInterval"         : 1,
+      "AdInterval"         : 5,
       
       "NativeAdRow"        : 5,
 
       "AdPlacement": {
         
-        "AdMobBanner"         : "ca-app-pub-6953444308306842/4189209139",
+        "AdMobBanner"         : "ca-app-pub-6953444308306842/",
         "AdMobInterstitial"   : "ca-app-pub-6953444308306842/",
         "AdMobNative"         : "ca-app-pub-6953444308306842/",
         "AdMobOpenAd"         : "ca-app-pub-6953444308306842/",
